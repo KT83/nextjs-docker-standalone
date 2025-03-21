@@ -7,8 +7,4 @@ deployment:
   # aws: null
   # gcp: null
   provider: aws
-package_manager: uv
-profile: default
 project_id: null
-source_paths:
-  - src
