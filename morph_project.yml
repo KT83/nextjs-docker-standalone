@@ -1,0 +1,14 @@
+build:
+  # build_args: null
+  # context: null
+  use_custom_dockerfile: true
+default_connection: DUCKDB
+deployment:
+  # aws: null
+  # gcp: null
+  provider: aws
+package_manager: uv
+profile: default
+project_id: null
+source_paths:
+  - src
