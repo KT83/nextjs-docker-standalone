@@ -6,5 +6,5 @@ default_connection: DUCKDB
 deployment:
   # aws: null
   # gcp: null
-  provider: aws
+  provider: gcp
 project_id: null
