@@ -1,5 +1,0 @@
-version: '1'
-
-deployment:
-  provider: gcp
-project_id: null

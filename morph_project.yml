@@ -1,0 +1,12 @@
+version: '1'
+
+build:
+  # build_args: null
+  # context: null
+  use_custom_dockerfile: true
+default_connection: DUCKDB
+deployment:
+  # aws: null
+  # gcp: null
+  provider: gcp
+project_id: null
